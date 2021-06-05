@@ -1,0 +1,15 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "![Github License](https://img.shields.io/badge/License-MIT-yellow.svg)\r ## Description\r Generates a README markdown file.\r ## Table of Contents\r * [Installation](#Installation)\r * [Usage](#Usage)\r * [License](#License)\r * [Contributing](#Contributing)\r * [Tests](#Tests)\r * [Questions](#Questions)\r ## Installation\r To install the README Generator, run 'npm i inquirer' in the command line. To invoke the prompts, run 'node index' in the command line.\r ## Usage\r Enter information as prompted.\r ## License\r MIT\r ## Contributing\r This is an open-source package that anyone can contribute to.\r ## Tests\r To run tests, install 'npm test' in the command line.\r ## Questions\r For additional information please contact me via GitHub at [https://github.com/codeb-a](https://github.com/codeb-a) or via email at [brandonakers729@gmail.com](mailto:brandonakers729@gmail.com?subject=[GitHub]%README%Generator).",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
