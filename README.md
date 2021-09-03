@@ -13,6 +13,7 @@ This apllication is used to generate a comprehensive README markdown file for yo
 ## Installation
 To install the README Generator, run 'npm i inquirer' in the command line. To invoke the prompts, run 'node index.js' in the command line.
 ## Usage
+Here is a video demonstrating the use of this application https://drive.google.com/file/d/1N5IxHgQi6dxdPlmpEDzslfaEsxZ5YmSa/view
 Follow along with the prompts in the terminal as requested.
 ## License
 MIT
